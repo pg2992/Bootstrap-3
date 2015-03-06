@@ -14,6 +14,26 @@
 - If you doesn't want that u have to speicificly declare the class to that particular breakpoint.
 - Offsets - can be used for giving offesets.
  
+##Typography
+
+- Bootstrap uses normalise.css for maintaining inconsistency and standarize them
+- fonts used helvetica neue,helvetica
+- h1 can be used as class and also the tags gets the same css too.
+- strikeout - "<s>sad</s>" or <del>
+- Underline </u> or <ins>
+- strong and em tags for bold
+- for aligning the text-left,text-right,text-nowrap,text-center,text-justify. they only align text no other flow. text-capatilise,text-upperCase,lowerClass
+- <blockquote><p>Give me freedom </p><footer>PG</footer></blockquote>
+- lists
+	- list-unstyled
+
+- defination lists 
+	- <DL> tags uses <DT> for heading and <DD> for description
+- use of code ,kbd , pre and samp tag	
+
+
+
+
 ##Tables
 ###Classes for table tag
 
