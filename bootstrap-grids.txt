@@ -1,0 +1,10 @@
+Points -----
+- the container has 12 segments or divisions.
+- there are 4 diff breakpoints
+	- less than 768px is extra small -- mobile devices
+	- btw 768 to 991 is small -- tablets
+	- btw 992 to 1199 is medium -- laptops
+	- greater than 1200 px
+
+-- gutter width - 30 px - 15 px on each side
+-- also we can grid inside grid. like we have row-fluid inside row-fluid in 2.0
